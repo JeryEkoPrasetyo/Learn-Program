@@ -26,7 +26,7 @@
     <div class="tengah">
         <div class="kolom">
             <p class="deskripsi"></p>
-            <h2>TAP ON THE IMAGE</h2>
+            <h2>Stay safe everyone!</h2>
             <p></p>
         </div>
 
@@ -55,7 +55,7 @@
     <div class="tengah">
         <div class="kolom">
             <p class="deskripsi"></p>
-            <h2>EDUCATION</h2>
+            <h2>#DiRUMAHAJA</h2>
             <p></p>
         </div>
 
